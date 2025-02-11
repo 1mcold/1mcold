@@ -1,9 +1,13 @@
 👋 Hi!
+
 I'm a beginner programmer who loves solving ciphers and experimenting with code. Sometimes, I also work on music and games.
 
 🔹 Learning programming
+
 🔹 Interested in cryptography and algorithms
+
 🔹 Creating beats and developing small games
+
 🔹 Mainly coding in JS, HTML, CSS, Python, and sometimes C++
 
 Open to communication and collaboration! 😊
