@@ -10,7 +10,7 @@ Open to communication and collaboration! 😊
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,powershell,ps&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,powershell,ps)](https://skillicons.dev)
 
 
 <picture>
